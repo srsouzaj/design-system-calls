@@ -11,11 +11,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "typescript": "^4.9.4"
-  },
+  "license": "MIT",
+  "dependencies": {},
   "devDependencies": {
+    "@srsouzaj/ts-config": "*",
+    "typescript": "^4.9.4",
     "tsup": "^6.5.0"
   }
 }
