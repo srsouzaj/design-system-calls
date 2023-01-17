@@ -7,14 +7,19 @@
   "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --dts",
-    "dev": "tsup src/index.ts --format esm,cjs --dts --watch"
+    "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
+    "lint": "eslint src/**/*.ts* --fix"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@srsouzaj/eslint-config": "*",
     "@srsouzaj/tokens": "*",
-    "tsup": "^6.5.0",
-    "typescript": "^4.9.4"
+    "@srsouzaj/ts-config": "*",
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "^18.0.10",
+    "tsup": "^6.2.3",
+    "typescript": "^4.8.4"
   }
 }
