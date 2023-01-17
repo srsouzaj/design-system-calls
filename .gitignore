@@ -1,1 +1,4 @@
-/packages/tokens/node_modules
+node_modules
+
+/packages/tokens/dist
+/packages/react/dist

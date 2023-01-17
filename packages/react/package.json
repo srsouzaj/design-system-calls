@@ -1,5 +1,5 @@
 {
-  "name": "@srsouzaj/tokens",
+  "name": "@srsouzaj/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -12,10 +12,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "typescript": "^4.9.4"
-  },
   "devDependencies": {
-    "tsup": "^6.5.0"
+    "@srsouzaj/tokens": "*",
+    "tsup": "^6.5.0",
+    "typescript": "^4.9.4"
   }
 }
