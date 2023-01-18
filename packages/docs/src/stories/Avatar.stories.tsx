@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/srsouzaj.png',
     alt: 'Jorge de Souza',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
