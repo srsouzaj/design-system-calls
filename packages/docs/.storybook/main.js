@@ -13,6 +13,9 @@ module.exports = {
   "core": {
     "builder": "@storybook/builder-vite"
   },
+  "features": {
+    "storyStoreV7": true
+  },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
       config.base = '/05-design-system/'
