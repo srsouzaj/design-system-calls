@@ -26,6 +26,12 @@ export const Primary: StoryObj<MultiStepProps> = {
     args: {},
 }
 
+export const Partial: StoryObj<MultiStepProps> = {
+    args: {
+        currentStep: 2,
+    },
+}
+
 export const Full: StoryObj<MultiStepProps> = {
     args: {
         currentStep: 4,
