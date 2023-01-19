@@ -1,11 +1,11 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Avatar, AvatarProps } from '@srsouzaj/react'
+import { Avatar, AvatarProps } from '@srsouza/react'
 
 export default {
   title: 'Data display/Avatar',
   component: Avatar,
   args: {
-    src: 'https://github.com/srsouzaj.png',
+    src: 'https://github.com/srsouza.png',
     alt: 'Jorge de Souza',
   },
   argTypes: {

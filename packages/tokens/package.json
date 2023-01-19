@@ -1,5 +1,5 @@
 {
-  "name": "@srsouzaj/tokens",
+  "name": "@srsouza/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -15,8 +15,8 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "@srsouzaj/ts-config": "*",
-    "@srsouzaj/eslint-config": "*",
+    "@srsouza/ts-config": "*",
+    "@srsouza/eslint-config": "*",
     "typescript": "^4.9.4",
     "tsup": "^6.5.0"
   }

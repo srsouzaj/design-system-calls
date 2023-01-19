@@ -1,5 +1,5 @@
 {
-  "name": "@srsouzaj/docs",
+  "name": "@srsouza/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -29,10 +29,10 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
-    "@srsouzaj/eslint-config": "*",
-    "@srsouzaj/react": "*",
-    "@srsouzaj/tokens": "*",
-    "@srsouzaj/ts-config": "*",
+    "@srsouza/eslint-config": "*",
+    "@srsouza/react": "*",
+    "@srsouza/tokens": "*",
+    "@srsouza/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.15",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
