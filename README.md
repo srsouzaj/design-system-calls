@@ -8,7 +8,7 @@
 
 ## **💻** Projeto
 
-Um sistema inteiro de agendamento da sua forma… quem nunca imaginou isso? E se todos os elementos da tela (botão, cores, textos, títulos) fossem todos personalizados à suas necessidades? A fim de consolidar ainda mais meus conhecimentos sendo alinhado com as novas e melhores práticas e tecnologias disponíveis no mundo da tecnologia, desenvolvi uma aplicação realizada durante o programa de aceleração “Ignite - ReactJS”, promovido pela Rocketseat, onde contruímos um Monorepo de sistema de padronização de cores, elementos - conhecido como “Design System” - para este tipo de aplicação.   
+Um sistema inteiro de agendamento da sua forma… quem nunca imaginou isso? E se todos os elementos da tela (botão, cores, textos, títulos) fossem todos personalizados à suas necessidades? A fim de consolidar ainda mais meus conhecimentos sendo alinhado com as novas e melhores práticas e tecnologias disponíveis no mundo da tecnologia, desenvolvi, durante o programa de aceleração “Ignite - ReactJS” promovido pela Rocketseat, um Monorepo de sistema de padronização de cores, elementos - conhecido como “Design System” - para este tipo de aplicação.   
 
 <br/>
 
