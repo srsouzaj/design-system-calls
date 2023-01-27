@@ -31,7 +31,7 @@ Um sistema inteiro de agendamento da sua forma… quem nunca imaginou isso? E se
 - [polished](https://polished.js.org/)
 - [vite](https://vitejs.dev/)
 
-## **🔖 Deploy**
+## **🔖 Documentação e Layouts**
 
 Você pode visualizar a documentação e os elementos através dos links abaixo:
 
