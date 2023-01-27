@@ -1,21 +1,19 @@
 import * as Toast from '@radix-ui/react-toast'
 import { keyframes, styled } from '../../styles'
 
-const VIEWPORT_PADDING = 32
-
 const hide = keyframes({
   '0%': { opacity: 1 },
   '100%': { opacity: 0 },
 })
 
 const slideIn = keyframes({
-  from: { transform: `translateX(calc(100% + ${VIEWPORT_PADDING}px))` },
+  from: { transform: `translateX(calc(100% + 32px))` },
   to: { transform: 'translateX(0)' },
 })
 
 const swipeOut = keyframes({
   from: { transform: 'translateX(var(--radix-toast-swipe-end-x))' },
-  to: { transform: `translateX(calc(100% + ${VIEWPORT_PADDING}px))` },
+  to: { transform: `translateX(calc(100% + 32px))` },
 })
 
 export const ToastRoot = styled(Toast.Root, {

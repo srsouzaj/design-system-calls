@@ -1,5 +1,11 @@
 # @srsouza/react
 
+## 5.0.0
+
+### Major Changes
+
+- add new toast info
+
 ## 4.0.0
 
 ### Major Changes
