@@ -1,5 +1,11 @@
 # @srsouza/react
 
+## 4.0.0
+
+### Major Changes
+
+- fix error on releases
+
 ## 3.0.0
 
 ### Major Changes
