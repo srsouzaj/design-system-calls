@@ -21,15 +21,16 @@ Um sistema inteiro de agendamento da sua forma… quem nunca imaginou isso? E se
 
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJS](https://pt-br.reactjs.org/)
-- [tsup](https://github.com/egoist/tsup)
-- [Storybook](https://storybook.js.org/)
-- [Stitches](https://stitches.dev/)
-- [Eslint](https://eslint.org/)
-- [TurboRepo](https://turbo.build/)
-- [Changesets](https://github.com/changesets/changesets/)
-- [phosphor-react](https://phosphoricons.com/)
-- [polished](https://polished.js.org/)
 - [vite](https://vitejs.dev/)
+- [Stitches](https://stitches.dev/)
+- [RadixUI](https://www.radix-ui.com/docs/primitives/overview/getting-started)
+- [polished](https://polished.js.org/)
+- [Storybook](https://storybook.js.org/)
+- [Changesets](https://github.com/changesets/changesets/)
+- [TurboRepo](https://turbo.build/)
+- [Eslint](https://eslint.org/)
+- [tsup](https://github.com/egoist/tsup)
+- [phosphor-react](https://phosphoricons.com/)
 
 ## **🔖 Documentação e Layouts**
 
