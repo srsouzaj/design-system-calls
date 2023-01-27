@@ -76,7 +76,7 @@ export const ToastViewPort = styled(Toast.Viewport, {
   right: 0,
   display: 'flex',
   flexDirection: 'column',
-  padding: VIEWPORT_PADDING,
+  padding: 32,
   gap: 10,
   width: 390,
   maxWidth: '100vw',
