@@ -1,5 +1,12 @@
 # @srsouza/react
 
+## 3.0.0
+
+### Major Changes
+
+- 0585e96: add toast and tooltip
+- add toast and tooltip component
+
 ## 2.1.0
 
 ### Minor Changes
