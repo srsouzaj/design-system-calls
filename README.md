@@ -45,7 +45,7 @@ Você pode visualizar a documentação e os elementos através dos links abaixo:
 
 ```bash
 ## Clone o projeto em sua máquina
-git clone [https://github.com/srsouzaj/05-designSystem.git](https://github.com/srsouzaj/05-designSystem.git)
+git clone https://github.com/srsouzaj/05-designSystem.git
 
 # Acessar o projeto no terminal
 $ cd 05-designSystem
